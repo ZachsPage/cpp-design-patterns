@@ -9,6 +9,6 @@
 handler could break the chain - Instead, there is a class to create the chain, 
 and also pass along the request until it was handled.
   * So, technically this example may not be a proper representation (its 
-    basically the Visitor, actually)
+    basically the [Visitor](../visitor/readme.md), actually)
 
 * [Source Code](main.cc)
